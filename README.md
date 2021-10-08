@@ -2,6 +2,8 @@
 Pra acompanha o preço de um produto o buscapé da conta. Mas numa pesquisa de mercado, acompanhando muitos produtos: webScraping.
 
 
+
+
 ## Version 1.0
 
 Inicialmente na primeira biblioteca que testei a kabum e a amazon estavam bloqueando o acesso pois detectavam como acesso de bot (de 10 funcionava 1). O nome da primeira era 'requests', então agora nesta segunda, a biblioteca Selenium, a qual emula um navegador, funcionou 100%. Houveram alguns adendos (citados no final), mas o programa está funcionando bem, já dá pra testar nos próximos dias.
